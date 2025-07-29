@@ -5,7 +5,12 @@
   </ul>
 </div>
 
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1OoBxTIFYcYuc8JUILtcpXxXM_Kbe_rvI?usp=drive_link" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
+  <p align="center">
+  <a href="https://skillicons.dev">
+     <ul align="center">
+    <h3 style="display: inline-block">EXE</h3>
+    <img src="https://skillicons.dev/icons?i=java" src="https://drive.google.com/file/d/12uBRYg5E6VVUr4l5I8vFbOG9XvfQMpIU/view?usp=drive_link" />
+  </a>
 </p>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+</ul>
